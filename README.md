@@ -1,4 +1,8 @@
 # CPR Coach: smart glasses that coach chest compressions
+<img width="520" height="304" alt="XR CPR Aura" src="https://github.com/user-attachments/assets/c02ac757-2e72-4cdb-88a7-b16e2caad5c0" />
+<img width="1456" height="837" alt="image" src="https://github.com/user-attachments/assets/8ed24af5-370c-4508-badf-61ecb9a176ad" />
+
+
 
 Software for an MSTI capstone at the University of Washington's Global Innovation Exchange (GIX), sponsored by MultiCare. Smart glasses watch someone practising CPR (cardiopulmonary resuscitation) on a manikin and coach them live: faster, slower, push harder, ease off, move your hands.
 
