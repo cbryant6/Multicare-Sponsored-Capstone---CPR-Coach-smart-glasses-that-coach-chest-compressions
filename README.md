@@ -78,6 +78,11 @@ Print the chest marker with `python make_marker_sheet.py` (or use `chest_marker.
 | Fatigue alert | Fired in all sessions that faded 25% or more; silent in all steady ones |
 | Chest marker | Found at every distance, angle and light level tried on generated frames; lost with heavy motion blur |
 
+<img width="1560" height="845" alt="rate_detection" src="https://github.com/user-attachments/assets/aea6f7e8-b0ba-442b-83d2-ab0858157827" />
+<img width="1500" height="690" alt="live_coach" src="https://github.com/user-attachments/assets/14d93782-05e3-47c3-88ce-a79cc28c4941" />
+<img width="1170" height="676" alt="depth_calibration" src="https://github.com/user-attachments/assets/f6cceae8-72d5-4dd1-8ea2-df8cfa79dd9a" />
+<img width="1500" height="660" alt="fatigue_alert" src="https://github.com/user-attachments/assets/7f47fabc-36d7-4f12-b558-26e0b324dd60" />
+<img width="1500" height="630" alt="marker_blur" src="https://github.com/user-attachments/assets/afe9f58c-ffbd-49e8-9104-d94219ddfe2d" />
 
 ## Repository layout
 
