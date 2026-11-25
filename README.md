@@ -84,18 +84,6 @@ Print the chest marker with `python make_marker_sheet.py` (or use `chest_marker.
 <img width="1500" height="660" alt="fatigue_alert" src="https://github.com/user-attachments/assets/7f47fabc-36d7-4f12-b558-26e0b324dd60" />
 <img width="1500" height="630" alt="marker_blur" src="https://github.com/user-attachments/assets/afe9f58c-ffbd-49e8-9104-d94219ddfe2d" />
 
-## Repository layout
-
-| Path | What's there |
-| --- | --- |
-| `cpr_engine/` | The engine: rate, depth, alignment, live detector, coach, fatigue, chest marker, scoring, simulators |
-| `run_*.py` | Demos that print results on simulated data |
-| `score_session.py`, `bench_report.py`, `fit_calibration.py` | Tools for recorded sessions |
-| `make_sample_sessions.py`, `make_marker_sheet.py` | Generate sample sessions and the printable marker |
-| `tests/` | 222 automated tests |
-| `docs/TECHNICAL_GUIDE.md` | How each piece works, in detail |
-| `docs/SESSION_FORMAT.md` | The file format the glasses capture app and the manikin converter must write |
-
 ## What comes next
 
 - **Capture app** (Unity, on the XREAL 1 Pro+ with the Eye camera) to record real sessions.
